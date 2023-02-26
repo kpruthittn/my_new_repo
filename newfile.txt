@@ -9,3 +9,5 @@ add Adding 7th number
 add Adding 8th number
 add Adding 9th number
 add Adding 10th number
+Add 1000th number
+Add 2000th number
